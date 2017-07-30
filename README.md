@@ -1,2 +1,3 @@
 # mendello
-boring for now.
+
+This is the mendello project.
