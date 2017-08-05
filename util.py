@@ -5,7 +5,7 @@ care of in a file that isn't a main file.
 
 What should be included?
 1. Transcription
-2. Translation 
+2. Translation
 3.
 
 """
